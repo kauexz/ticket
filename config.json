@@ -1,6 +1,6 @@
 {
-  "token": "", //token do bot
-  "autorizado": "", //seu id
-  "categoria": "", //id da categoria que vai criar o ticket
-  "suporte": "" // id do cargo pra encerrar ticket e adicionar usuarios
+  "token": "",
+  "autorizado": "",
+  "categoria": "",
+  "suporte": ""
 }
