@@ -1,0 +1,10 @@
+{
+  "name": "ticket",
+  "main": "index.js",
+  "author": "Kaue",
+  "discord": "kfwr",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
